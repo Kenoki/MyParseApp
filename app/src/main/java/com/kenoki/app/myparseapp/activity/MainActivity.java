@@ -1,9 +1,11 @@
-package com.kenoki.app.myparseapp;
+package com.kenoki.app.myparseapp.activity;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
+
+import com.kenoki.app.myparseapp.R;
 
 public class MainActivity extends AppCompatActivity {
 
